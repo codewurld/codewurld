@@ -1,7 +1,7 @@
 ### Hi there, I'm Shola. Thanks for checking out my Github page. 👋
 
 ## Tech Stack & Tools
-HTML, CSS, Sass, Javascript, React, Mongo, Node, Express Python, Figma, Photoshop, Firebase
+HTML, CSS, Sass, Javascript, React, Mongo, Node, Express, Python, Figma, Photoshop, Firebase
 
 
 <!--
