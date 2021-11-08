@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Tech Stack & Tools
+
+![HTML](https://cdn-icons-png.flaticon.com/512/1051/1051277.png)
+HTML, CSS, Sass, Javascript, React, Mongo, Node, Express Python, Figma, Photoshop, Firebase
+
 <!--
 **codewurld/codewurld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +12,4 @@ A highly motivated, ambitious individual who takes great pride in carrying out w
 
 🌱 I enjoy helping people who are struggling as I have found this to be a further opportunity to cement my knowledge and I am really excited about this new phase of my life, and where it can take me in the future.
 
-## Tech Stack & Tools
 
-![HTML](https://cdn-icons-png.flaticon.com/512/1051/1051277.png)
-HTML, CSS, Sass, Javascript, React, Mongo, Node, Express Python, Figma, Photoshop, Firebase
