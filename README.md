@@ -4,7 +4,7 @@
 HTML, CSS, Sass, Javascript, React, Mongo, Node, Express, Python, Figma, Photoshop, Firebase
 
 ### Infinity & Beyond Days of Code
-I joined the 100 Days of Code around May 2021 to challenge myself to be immersed in working on projects and/or learning/improving programming related skills, knowledge or concepts and as of this writing (16 November 2021) - I'm on Day 223. Follow my journey on Twitter [here](https://twitter.com/codewurld1) 
+I joined the 100 Days of Code around May 2021 to challenge myself to be immersed in working on projects and/or learning/improving programming related skills, knowledge or concepts and as of this writing (16 November 2021) - I'm on Day 223. Follow my journey on Twitter [here.](https://twitter.com/codewurld1) 
 
 
 <!--
